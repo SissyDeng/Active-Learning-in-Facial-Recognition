@@ -1,0 +1,31 @@
+Links to the Pickle Objects for the Preprocessing and K-Means Algorithm
+
+Pickle Object 1: https://drive.google.com/file/d/1rdVA12by5nmZDQ5_fkE2sCmiJ7cCVnPE/view?usp=sharing
+
+For the K-Means Algorithm, you only need the following file as Input:
+Pickle Object 2: https://drive.google.com/file/d/10N94gi7rorZ7oyQ9Cc2RPiy-VWnepcmM/view?usp=sharing
+# Unpickle as:  
+# train_texts, train_labels, test_texts, test_labels, train_texts_vec, test_texts_vec = pickle.load(f)
+# train text, train labels, test text, test labels, vectorised training text, vectorised testing text
+
+Misc Object(inital naive k-means approach):
+# Do not use this object
+Pickle Object 3: https://drive.google.com/file/d/1-Ar2KAW2ew0R7__OyW9iToKv1jJUnVkV/view?usp=sharing
+
+Output of Min-Batch-K-Means Algorithm(6 clusters) on Training and Test Set:
+Pickle Object 4: https://drive.google.com/file/d/1xVZBYm7_sXMMwuO2ICduzxcMjnMJTsMA/view?usp=sharing
+# Unpickle as:  
+# kmeans, pred_train_clusters, pred_test_clusters = pickle.load(f)
+# minbatch k-means object, cluster number for training data (0-5), predicted clusters for test data
+
+Truncated SVD algorithm, reducing dimensionality from 1.8 mil to 50:
+Pickle Object 5: https://drive.google.com/file/d/1MA82C2AU_wn35SbKVwYBIbm6GVuyAMfN/view?usp=sharing
+It has the dimensionally reduced data 
+
+Output of K-Means algorithm on dimensionally reduced data:
+Pickle Object 6: https://drive.google.com/file/d/1s9HpPvtcjZQM2FGWRWuuU_JNJAo65i53/view?usp=sharing
+It has the k-means object as well as the predicted clusters for each datapoint on the dimensionally reduced dataset.
+
+UMAP on a 100k subset of the dataset for dimensionality reduction and visualization:
+Pickle Object 7: https://drive.google.com/file/d/1-2vTOt8f8ryLksweWhEwW2LeN4EGsHs6/view?usp=sharing
+It has the dimesionality reduced UMAP object as well as the embedding for each datapoint.

@@ -1,0 +1,50 @@
+F1-Score : 0.885327  Precision : 0.880895  Recall : 0.889805   __label__2
+F1-Score : 0.884162  Precision : 0.888679  Recall : 0.879690   __label__1
+N	400000
+P@1	0.885
+R@1	0.885
+F1-Score : 0.901780  Precision : 0.895441  Recall : 0.908210   __label__1
+F1-Score : 0.900370  Precision : 0.906882  Recall : 0.893950   __label__2
+N	400000
+P@1	0.901
+R@1	0.901
+F1-Score : 0.906561  Precision : 0.904452  Recall : 0.908680   __label__1
+F1-Score : 0.906123  Precision : 0.908251  Recall : 0.904005   __label__2
+N	400000
+P@1	0.906
+R@1	0.906
+F1-Score : 0.909696  Precision : 0.906884  Recall : 0.912525   __label__1
+F1-Score : 0.909132  Precision : 0.911978  Recall : 0.906305   __label__2
+N	400000
+P@1	0.909
+R@1	0.909
+F1-Score : 0.911954  Precision : 0.906567  Recall : 0.917405   __label__1
+F1-Score : 0.910895  Precision : 0.916406  Recall : 0.905450   __label__2
+N	400000
+P@1	0.911
+R@1	0.911
+F1-Score : 0.913284  Precision : 0.908470  Recall : 0.918150   __label__1
+F1-Score : 0.912356  Precision : 0.917268  Recall : 0.907495   __label__2
+N	400000
+P@1	0.913
+R@1	0.913
+F1-Score : 0.913579  Precision : 0.910568  Recall : 0.916610   __label__1
+F1-Score : 0.913004  Precision : 0.916053  Recall : 0.909975   __label__2
+N	400000
+P@1	0.913
+R@1	0.913
+F1-Score : 0.914187  Precision : 0.912023  Recall : 0.916360   __label__1
+F1-Score : 0.913778  Precision : 0.915960  Recall : 0.911605   __label__2
+N	400000
+P@1	0.914
+R@1	0.914
+F1-Score : 0.914798  Precision : 0.910669  Recall : 0.918965   __label__1
+F1-Score : 0.914018  Precision : 0.918220  Recall : 0.909855   __label__2
+N	400000
+P@1	0.914
+R@1	0.914
+F1-Score : 0.914676  Precision : 0.917034  Recall : 0.912330   __label__2
+F1-Score : 0.915113  Precision : 0.912777  Recall : 0.917460   __label__1
+N	400000
+P@1	0.915
+R@1	0.915
